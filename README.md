@@ -8,7 +8,7 @@
 ### 실험 4: 동물 이미지로 이름 예측 모델 생성  
 # 
 ## Code & Result :memo:
-[Code Link](https://github.com/jtj8412/data-analysis/blob/main/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5.ipynb)  
+[Code Link](https://github.com/jtj8412/data-analysis/blob/main/data_analysis.ipynb)  
 \* 이미지가 많아 로딩이 조금 오래 걸립니다
 
 ## Youtube :movie_camera:
