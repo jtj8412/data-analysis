@@ -6,10 +6,13 @@
 ### 실험 2: League Of Legends, 유저의 포지션 예측 모델 생성
 ### 실험 3: League Of Legends, 유저의 획득 골드 예측 모델 생성
 ### 실험 4: 동물 이미지로 이름 예측 모델 생성  
-# 
-## Code & Result :memo:
+<br/>
+
+## Code & Result :memo:  
+
 [Code Link](https://github.com/jtj8412/data-analysis/blob/main/data_analysis.ipynb)  
-\* 이미지가 많아 로딩이 조금 오래 걸립니다
+\* 이미지가 많아 로딩이 조금 오래 걸립니다  
+<br/>  
 
 ## Youtube :movie_camera:
 [Youtube Link](https://youtu.be/BGcJGCGU1ok)  
