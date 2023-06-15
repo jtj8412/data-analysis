@@ -1,6 +1,6 @@
 # 게임 데이터 분석 및 예측 모델 생성  
 
-![Main Screenshot](https://jtj8412.github.io/resources/imgs/data-analysis/main.png)
+![Main Screenshot](imgs/main.png)
 
 ## Features
 - League Of Legends 데이터 수집
@@ -14,7 +14,7 @@
 ## Code & Result :memo:  
 
 [Code Link](https://github.com/jtj8412/data-analysis/blob/main/data_analysis.ipynb)  
-\* 이미지가 많아 로딩이 조금 오래 걸립니다  
+
 <br/>  
 
 ## Youtube :movie_camera:
